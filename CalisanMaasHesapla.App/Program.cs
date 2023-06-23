@@ -10,7 +10,7 @@ namespace CalisanMaasHesapla.App
 
             // string arg disardan verilen parametleri dogru bir sekilde almamızı sağlar
 
-            // İlk harfi nasıl Büyütebiliriz?
+            // İLK HARB NASIL BUYUTEBILIRIZ!!!!??
 
         {
             BasePersonel _emre = new KadroluPersonel(15514866,"Emre","yaman",8,20000);
