@@ -8,9 +8,9 @@ namespace CalisanMaasHesapla.App
 
         static void Main()
 
-            // string arg disardan verilen parametleri dogru bir sekilde almamızı sağlar
+            // string arg disardan verilen parametleri dogru bir sekilde almamızı sağlar.
 
-            // İLK HARB NASIL BUYUTEBILIRIZ!!!!??
+            // İLK HAFB NASIL BUYUTEBILIRIZ!!!!??
 
         {
             BasePersonel _emre = new KadroluPersonel(15514866,"Emre","yaman",8,20000);
